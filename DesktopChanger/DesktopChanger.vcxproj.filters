@@ -201,6 +201,9 @@
     <ClInclude Include="rapidjson\writer.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
+    <ClInclude Include="testThread.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -216,6 +219,9 @@
       <Filter>File di origine</Filter>
     </ClCompile>
     <ClCompile Include="testInternet.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="testThread.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
   </ItemGroup>

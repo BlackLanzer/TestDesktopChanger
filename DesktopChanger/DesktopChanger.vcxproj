@@ -143,6 +143,7 @@
     <ClInclude Include="testInternet.h" />
     <ClInclude Include="testJSON.h" />
     <ClInclude Include="testProgress.h" />
+    <ClInclude Include="testThread.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DesktopChanger.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="testInternet.cpp" />
     <ClCompile Include="testJSON.cpp" />
     <ClCompile Include="testProgress.cpp" />
+    <ClCompile Include="testThread.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
